@@ -1,2 +1,3 @@
 # ImageHub
-Ahhh?  It is a image hub for my daily work life.
+
+Ohh! This is a drawing bed for my blog. 
